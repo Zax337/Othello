@@ -35,5 +35,4 @@ private:
     void getChangesInColAux(OthelloBoard *, cellType, std::list<OthelloAction *> * &, int , int);
 };
 
-#include "OthelloAction.hpp"
 #endif /* OTHELLOACTION_H_ */
